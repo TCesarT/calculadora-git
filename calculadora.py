@@ -1,3 +1,9 @@
+def sumar(a, b):
+    return a + b
+
+def restar(a, b):
+    return a - b
+    
 def presentacion():
     print("====================================")
     print("  CALCULADORA MODULAR EN PYTHON     ")
